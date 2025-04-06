@@ -1,0 +1,88 @@
+Emojis:
+😀 &#x1F600; (Grinning Face)
+😊 &#x1F60A; (Smiling Face with Smiling Eyes)
+😂 &#x1F602; (Face with Tears of Joy)
+🥲 &#x1F972; (Smiling Face with Tear)
+😍 &#x1F60D; (Heart Eyes)
+🤩 &#x1F929; (Star-Struck)
+😎 &#x1F60E; (Smiling Face with Sunglasses)
+🤗 &#x1F917; (Hugging Face)
+👍 &#x1F44D; (Thumbs Up)
+👎 &#x1F44E; (Thumbs Down)
+👏 &#x1F44F; (Clapping Hands)
+🙌 &#x1F64C; (Raising Hands)
+💪 &#x1F4AA; (Flexed Biceps)
+👀 &#x1F440; (Eyes)
+🐶 &#x1F436; (Dog Face)
+🐱 &#x1F431; (Cat Face)
+🦁 &#x1F981; (Lion)
+🐘 &#x1F418; (Elephant)
+🌹 &#x1F339; (Rose)
+🌳 &#x1F333; (Deciduous Tree)
+🍎 &#x1F34E; (Red Apple)
+🍕 &#x1F355; (Pizza)
+🍔 &#x1F354; (Hamburger)
+🍦 &#x1F366; (Soft Ice Cream)
+☕ &#x2615; (Hot Beverage)
+🍷 &#x1F377; (Wine Glass)
+🚗 &#x1F697; (Automobile)
+✈️ &#x2708; (Airplane)
+🚀 &#x1F680; (Rocket)
+🏠 &#x1F3E0; (House)
+🌍 &#x1F30D; (Earth Globe Europe-Africa)
+🗽 &#x1F5FD; (Statue of Liberty)
+⚽ &#x26BD; (Soccer Ball)
+🏀 &#x1F3C0; (Basketball)
+🎮 &#x1F3AE; (Video Game)
+🎨 &#x1F3A8; (Artist Palette)
+🎤 &#x1F3A4; (Microphone)
+🎭 &#x1F3AD; (Performing Arts)
+💡 &#x1F4A1; (Light Bulb)
+📱 &#x1F4F1; (Mobile Phone)
+💻 &#x1F4BB; (Laptop)
+⌚ &#x231A; (Watch)
+🔑 &#x1F511; (Key)
+🎁 &#x1F381; (Wrapped Gift)
+❤️ &#x2764; (Heart)
+✨ &#x2728; (Sparkles)
+🔥 &#x1F525; (Fire)
+🌈 &#x1F308; (Rainbow)
+✅ &#x2705; (Check Mark Button)
+❌ &#x274C; (Cross Mark)
+
+Symbols:
+<!-- Currency Symbols -->
+&pound; (£) - British Pound
+&euro; (€) - Euro
+&yen; (¥) - Yen/Yuan
+&cent; (¢) - Cent
+&dollar; ($) - Dollar
+
+<!-- Math Symbols -->
+&plusmn; (±) - Plus/Minus
+× (×) - Multiplication
+÷ (÷) - Division
+&radic; (√) - Square Root
+&infin; (∞) - Infinity
+&sum; (∑) - Summation
+&int; (∫) - Integral
+
+<!-- Arrow Symbols -->
+&larr; (←) - Left Arrow
+&rarr; (→) - Right Arrow
+&uarr; (↑) - Up Arrow
+&darr; (↓) - Down Arrow
+&harr; (↔) - Left-Right Arrow
+
+<!-- Other Symbols -->
+&copy; (©) - Copyright
+&reg; (®) - Registered Trademark
+&trade; (™) - Trademark
+&deg; (°) - Degree
+&para; (¶) - Paragraph
+&middot; (·) - Middle Dot
+&bull; (•) - Bullet
+&hearts; (♥) - Heart
+&spades; (♠) - Spade
+&clubs; (♣) - Club
+&diams; (♦) - Diamond
